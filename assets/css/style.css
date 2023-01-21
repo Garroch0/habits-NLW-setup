@@ -34,6 +34,7 @@ body{
   line-height: 125%;
   color: #EAEAEA;
   background-color: transparent;
+  cursor: pointer;
 }
 
 #form-habits{
